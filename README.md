@@ -36,7 +36,7 @@ Click "**New registration**".
 
 ![IsolateMachine_App_Registration_1](Images/IsolateMachine_App_Registration_1.png)
 
-Enter "**AS-MDE-Isolate-Machine**" for the name, all else can be left as is. Click "**Register**"
+Enter "**AS-MDE-Isolate-Machine**" for the name, all else can be left as is. Click "**Register**".
 
 ![IsolateMachine_App_Registration_2](Images/IsolateMachine_App_Registration_2.png)
 
